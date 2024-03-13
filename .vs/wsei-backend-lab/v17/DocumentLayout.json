@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|d:\\users\\bartosz.ksiazek\\desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\blazorchat\\pages\\chatroom.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|solutionrelative:blazorchat\\pages\\chatroom.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|d:\\users\\bartosz.ksiazek\\desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\blazorchat\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|solutionrelative:blazorchat\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|d:\\users\\bartosz.ksiazek\\desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\blazorchat\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|solutionrelative:blazorchat\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|d:\\users\\bartosz.ksiazek\\desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\blazorchat\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|solutionrelative:blazorchat\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|d:\\users\\bartosz.ksiazek\\desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\blazorchat\\blazorchatsamplehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|solutionrelative:blazorchat\\blazorchatsamplehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|d:\\users\\bartosz.ksiazek\\desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\blazorchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970C8715-C0B4-4C02-B12D-2DFBBEBE5FB1}|BlazorChat\\BlazorChat.csproj|solutionrelative:blazorchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\UserService.cs",
+              "RelativeDocumentMoniker": "BlazorChat\\UserService.cs",
+              "ToolTip": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\UserService.cs",
+              "RelativeToolTip": "BlazorChat\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:35:42.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BlazorChat\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BlazorChat\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAQwH8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-13T09:27:26.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorChat\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorChat\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T09:23:05.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatRoom.razor",
+              "DocumentMoniker": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\Pages\\ChatRoom.razor",
+              "RelativeDocumentMoniker": "BlazorChat\\Pages\\ChatRoom.razor",
+              "ToolTip": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\Pages\\ChatRoom.razor",
+              "RelativeToolTip": "BlazorChat\\Pages\\ChatRoom.razor",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T09:20:46.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorChat\\Program.cs",
+              "ToolTip": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\Program.cs",
+              "RelativeToolTip": "BlazorChat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:17:10.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlazorChatSampleHub.cs",
+              "DocumentMoniker": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\BlazorChatSampleHub.cs",
+              "RelativeDocumentMoniker": "BlazorChat\\BlazorChatSampleHub.cs",
+              "ToolTip": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\BlazorChat\\BlazorChatSampleHub.cs",
+              "RelativeToolTip": "BlazorChat\\BlazorChatSampleHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:16:51.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

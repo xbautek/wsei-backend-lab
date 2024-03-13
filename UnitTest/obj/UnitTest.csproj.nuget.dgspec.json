@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\UnitTest\\UnitTest.csproj": {}
+    "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\UnitTest\\UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
+    "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\Barte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\obj\\",
+        "projectPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj",
+        "packagesPath": "D:\\Users\\bartosz.ksiazek\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Barte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "D:\\Users\\bartosz.ksiazek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,21 +64,17 @@
         }
       }
     },
-    "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Barte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\Infrastructure\\obj\\",
+        "projectPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "D:\\Users\\bartosz.ksiazek\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Barte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "D:\\Users\\bartosz.ksiazek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,15 +82,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj"
+              "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }
@@ -144,21 +134,17 @@
         }
       }
     },
-    "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\UnitTest\\UnitTest.csproj": {
+    "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\UnitTest\\UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\UnitTest\\UnitTest.csproj",
+        "projectUniqueName": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\UnitTest\\UnitTest.csproj",
         "projectName": "UnitTest",
-        "projectPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\UnitTest\\UnitTest.csproj",
-        "packagesPath": "C:\\Users\\Barte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\UnitTest\\obj\\",
+        "projectPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\UnitTest\\UnitTest.csproj",
+        "packagesPath": "D:\\Users\\bartosz.ksiazek\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\UnitTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Barte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "D:\\Users\\bartosz.ksiazek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,18 +152,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj"
+              "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
