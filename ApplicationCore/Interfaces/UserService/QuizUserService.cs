@@ -28,7 +28,13 @@ public class QuizUserService: IQuizUserService
 
     public void SaveUserAnswerForQuiz(int quizId, int userId, int quizItemId, string answer)
     {
+        // todo sprawdzenie poprawnosci odpowiedzi
         QuizItem? item = itemRepository.FindById(quizItemId);
+
+        if (item is null)
+        {
+            throw new Exception("not valid quiz item");
+        }
         var userAnswer = new QuizItemUserAnswer(quizItem: item, userId: userId, answer: answer, quizId: quizId);
         answerRepository.Add(userAnswer);
     }
