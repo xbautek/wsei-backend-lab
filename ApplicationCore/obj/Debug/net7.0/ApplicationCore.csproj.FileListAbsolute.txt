@@ -21,3 +21,4 @@ C:\Users\Barte\RiderProjects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\A
 C:\Users\Barte\RiderProjects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
 C:\Users\Barte\RiderProjects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
 C:\Users\Barte\RiderProjects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll
+D:\Users\bartosz.ksiazek\Desktop\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.sourcelink.json
