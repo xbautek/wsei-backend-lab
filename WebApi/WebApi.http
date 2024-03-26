@@ -1,0 +1,4 @@
+GET http://localhost:5096/api/v1/user/quizzes/1
+Accept: application/json
+
+###

@@ -29,3 +29,4 @@ C:\Users\Barte\RiderProjects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\In
 C:\Users\Barte\RiderProjects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 C:\Users\Barte\RiderProjects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 C:\Users\Barte\RiderProjects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\Users\bartosz.ksiazek\Desktop\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json

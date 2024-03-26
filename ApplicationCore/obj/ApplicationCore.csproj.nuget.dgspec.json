@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {}
+    "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
+    "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\Barte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\obj\\",
+        "projectPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj",
+        "packagesPath": "D:\\Users\\bartosz.ksiazek\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Barte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "D:\\Users\\bartosz.ksiazek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

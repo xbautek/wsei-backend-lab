@@ -7,12 +7,14 @@ public static class SeedData
 {
     public static void Seed(this WebApplication app)
     {
+
         using (var scope = app.Services.CreateScope())
         {
             var provider = scope.ServiceProvider;
-            var quizRepo = provider.GetService<IGenericRepository<Quiz, int>>();
             var quizItemRepo = provider.GetService<IGenericRepository<QuizItem, int>>();
+            var quizRepo = provider.GetService<IGenericRepository<Quiz, int>>();
 
+            
             var quiz1Items = new List<QuizItem>
             {
                 new QuizItem(1, "What color is grass", new List<string>{"blue","pink","purple"}, "green"),
@@ -28,6 +30,7 @@ public static class SeedData
             
             var quiz1 = new Quiz(1, quiz1Items, "Quiz 1");
             var quiz2 = new Quiz(2, quiz2Items, "Quiz 2");
+            
             quizRepo.Add(quiz1);
             quizRepo.Add(quiz2);
         } 

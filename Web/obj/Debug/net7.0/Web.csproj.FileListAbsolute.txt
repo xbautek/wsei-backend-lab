@@ -501,3 +501,4 @@ C:\Users\Barte\RiderProjects\wsei-backend-lab\Web\obj\Debug\net7.0\refint\Web.dl
 C:\Users\Barte\RiderProjects\wsei-backend-lab\Web\obj\Debug\net7.0\Web.pdb
 C:\Users\Barte\RiderProjects\wsei-backend-lab\Web\obj\Debug\net7.0\Web.genruntimeconfig.cache
 C:\Users\Barte\RiderProjects\wsei-backend-lab\Web\obj\Debug\net7.0\ref\Web.dll
+D:\Users\bartosz.ksiazek\Desktop\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Web\obj\Debug\net7.0\Web.sourcelink.json
