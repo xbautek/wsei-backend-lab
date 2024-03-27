@@ -30,9 +30,12 @@ public static class SeedData
             
             var quiz1 = new Quiz(1, quiz1Items, "Quiz 1");
             var quiz2 = new Quiz(2, quiz2Items, "Quiz 2");
-            
-            quizRepo.Add(quiz1);
-            quizRepo.Add(quiz2);
+
+            if (quizRepo != null)
+            {
+                quizRepo.Add(quiz1);
+                quizRepo.Add(quiz2);
+            }
         } 
     }
 }

@@ -1,7 +1,7 @@
 ﻿using ApplicationCore.Interfaces.Criteria;
 using ApplicationCore.Interfaces.Repository;
 
-namespace Infrastructure.Memory.Repository;
+namespace Infrastructure.Memory.Repositories;
 
 public class MemoryGenericRepository<T, K>:IGenericRepository<T, K> where T: class, IIdentity<K> where K : IComparable<K>
 {
@@ -30,10 +30,11 @@ public class MemoryGenericRepository<T, K>:IGenericRepository<T, K> where T: cla
         return Task.FromResult(_data.Values.ToList());
     }
 
-    public T? FindById(K id)
+    public T FindById(K id)
     {
         try
         {
+            Console.WriteLine($"{_data[id]}");
             return _data[id];
         }
         catch(KeyNotFoundException e)
@@ -53,6 +54,8 @@ public class MemoryGenericRepository<T, K>:IGenericRepository<T, K> where T: cla
         {
             entity.Id = _idGenerator.Next;
         }
+
+        //Console.WriteLine(entity.Id);
         _data[entity.Id]= entity;
         return entity;
     }

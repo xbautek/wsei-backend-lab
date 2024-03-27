@@ -27,18 +27,24 @@ public class ApiUserQuizController : Controller
         {
             return NotFound();
         }
+        
 
         return QuizDTO.Of(result);
     }
-
+    
     [HttpPost]
     [Route("{quizId}/items/{itemId}/answers")]
-    public IActionResult SaveAnswer(int quizId, int itemId, QuizItemUserAnswearDTO answer)
+    public void SaveAnswer([FromBody] QuizItemUserAnswearDTO dto, int quizId, int itemId)
     {
-        _userService.SaveUserAnswerForQuiz(quizId, 1 , itemId, answer.Answear);
-        
-        return Created();
+        _userService.SaveUserAnswerForQuiz(quizId, 1 , itemId, dto.Answear);
     }
+    
+  //  [HttpPost]
+   // [Route("{quizId}/items/{itemId}")]
+   /// public void SaveAnswer([FromBody] QuizItemAnswerDto dto, int quizId, int itemId)
+   // {
+   //     _userservice.SaveUserAnswerForQuiz(quizId, dto.UserId, itemId, dto.Answer);
+    //}
     
     
     [HttpPost]
@@ -49,9 +55,15 @@ public class ApiUserQuizController : Controller
 
         return new
         {
-            ValidAnswears = count,
+            ValidAnswers = count,
             QuizId = quizId,
             UserId = 1
         };
+    }
+    
+    [HttpGet]
+    public IEnumerable<QuizDTO> FindAll()
+    {
+        return _userService.FindAll().Select(quiz => QuizDTO.Of(quiz));
     }
 }

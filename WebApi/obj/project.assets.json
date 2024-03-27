@@ -9988,19 +9988,24 @@
     ]
   },
   "packageFolders": {
-    "D:\\Users\\bartosz.ksiazek\\.nuget\\packages\\": {}
+    "C:\\Users\\Barte\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\WebApi\\WebApi.csproj",
-      "packagesPath": "D:\\Users\\bartosz.ksiazek\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\WebApi\\obj\\",
+      "projectPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\Barte\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "D:\\Users\\bartosz.ksiazek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Barte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10008,17 +10013,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj"
+            "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj"
             },
-            "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Web\\Web.csproj": {
-              "projectPath": "D:\\Users\\bartosz.ksiazek\\Desktop\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Web\\Web.csproj"
+            "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\Web\\Web.csproj": {
+              "projectPath": "C:\\Users\\Barte\\RiderProjects\\wsei-backend-lab\\Web\\Web.csproj"
             }
           }
         }
